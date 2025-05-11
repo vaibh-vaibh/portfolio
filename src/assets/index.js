@@ -8,6 +8,7 @@ import close from "./close.svg";
 import quiz from "./quiz.png";
 import typescript from "./tech/typescript.png";
 import notepad from "./notepad.png";
+import portfolio from "./portfolio.png";
 
 import css from "./tech/css.png";
 import netlify from "./tech/netlify.png";
@@ -40,6 +41,7 @@ export {
   css,
   netlify,
   github,
+  portfolio,
   git,
   html,
   javascript,

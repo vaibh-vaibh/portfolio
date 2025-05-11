@@ -24,6 +24,7 @@ import {
   quiz,
   typescript,
   notepad,
+  portfolio,
 } from "../assets";
 
 export const navLinks = [
@@ -220,6 +221,27 @@ const projects = [
     ],
     image: vphomes,
     source_code_link: "https://github.com/vaibh-vaibh/house_price_prediction.git",
+  },
+  {
+    name: "Portfolio",
+    description:
+      "Developed a modern 3D portfolio website using Vite, TailwindCSS, and Three.js, an interactive 3D canvas, and integrated contact form with email functionality.",
+    tags: [
+      {
+        name: "vite",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "threejs",
+        color: "orange-text-gradient",
+      }
+    ],
+    image: portfolio,
+    source_code_link: "",
   },
   {
     name: "Snake Game",

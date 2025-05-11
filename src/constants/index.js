@@ -244,9 +244,9 @@ const projects = [
     source_code_link: "",
   },
   {
-    name: "Snake Game",
+    name: "Snake Game Frontend Website",
     description:
-      "Developed a classic Snake Game using HTML, CSS, and JavaScript with smooth controls and real-time score tracking for an engaging gaming experience.",
+      "Developed a classic Snake Game using HTML, CSS, and JavaScript with smooth controls and real-time score tracking for an engaging and responsive gaming website experience.",
     tags: [
       {
         name: "html5",

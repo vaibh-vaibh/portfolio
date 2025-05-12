@@ -11,6 +11,7 @@ import {
   bootstrap,
   tailwind,
   java,
+  sudoku,
   mysql,
   git,
   github,
@@ -241,7 +242,7 @@ const projects = [
       }
     ],
     image: portfolio,
-    source_code_link: "",
+    source_code_link: "https://githubbox.com/vaibh-vaibh/portfolio",
   },
   {
     name: "Snake Game Frontend Website",
@@ -303,6 +304,27 @@ const projects = [
     ],
     image: notepad,
     source_code_link: "https://github.com/vaibh-vaibh/Electron-Notepad.git",
+  },
+  {
+    name: "Sudoku",
+    description:
+      "Developed a modern Sudoku Gaming website using Html, CSS, and Js, an interactive canvas, with fully functionality.",
+    tags: [
+      {
+        name: "html",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "js",
+        color: "orange-text-gradient",
+      }
+    ],
+    image: sudoku,
+    source_code_link: "https://682224f788373333ad8ec2b1--quiet-strudel-3db611.netlify.app/",
   },
 ];
 

@@ -29,6 +29,7 @@ import java from "./tech/java.png"
 import carrent from "./carrent.png";
 import vphomes from "./vphomes.png";
 import snake from "./snake.png";
+import sudoku from "./sudoku.png";
 
 export {
   logo,
@@ -36,6 +37,7 @@ export {
   creator,
   mobile,
   web,
+  sudoku,
   menu,
   close,
   css,

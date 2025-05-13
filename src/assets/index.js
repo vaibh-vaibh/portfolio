@@ -24,6 +24,7 @@ import vite from "./tech/vite.png";
 import threejs from "./tech/threejs.svg";
 
 import cetpa from "./company/cetpa.png";
+import tictactoe from "./tictactoe.png";
 import ceeras from "./company/ceeras.jpg";
 import java from "./tech/java.png"
 import carrent from "./carrent.png";
@@ -59,6 +60,7 @@ export {
   carrent,
   vphomes,
   snake,
+  tictactoe,
   quiz,
   typescript,
   notepad,

@@ -17,6 +17,7 @@ import {
   github,
   netlify,
   cetpa,
+  tictactoe,
   ceeras,
   carrent,
   vphomes,
@@ -306,9 +307,9 @@ const projects = [
     source_code_link: "https://github.com/vaibh-vaibh/Electron-Notepad.git",
   },
   {
-    name: "Sudoku",
+    name: "Sudoku Game Frontend Website",
     description:
-      "Developed a modern Sudoku Gaming website using Html, CSS, and Js, an interactive canvas, with fully functionality.",
+      "Developed a modern Sudoku Gaming website using HTML, CSS, and JavaScript, featuring an interactive canvas and full functionality, allowing users to play and solve Sudoku puzzles seamlessly.",
     tags: [
       {
         name: "html",
@@ -325,6 +326,30 @@ const projects = [
     ],
     image: sudoku,
     source_code_link: "https://682224f788373333ad8ec2b1--quiet-strudel-3db611.netlify.app/",
+  },
+  {
+    name: "Tic Tac Toe Game Frontend Website",
+    description:
+      "Developed a classic Tic Tac Toe Game using HTML, CSS, and JavaScript with smooth controls, dark mode and score tracking for an engaging and responsive gaming website experience.",
+    tags: [
+      {
+        name: "html5",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "netlify", 
+      },
+    ],
+    image: tictactoe,
+    source_code_link: "https://68238e2e48c07440a7083eeb--fantastic-banoffee-3645c7.netlify.app/",
   },
 ];
 

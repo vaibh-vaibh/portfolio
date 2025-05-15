@@ -31,11 +31,13 @@ import carrent from "./carrent.png";
 import vphomes from "./vphomes.png";
 import snake from "./snake.png";
 import sudoku from "./sudoku.png";
+import puzzle from "./puzzle.png";
 
 export {
   logo,
   backend,
   creator,
+  puzzle,
   mobile,
   web,
   sudoku,

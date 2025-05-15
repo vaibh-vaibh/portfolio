@@ -12,6 +12,7 @@ import {
   tailwind,
   java,
   sudoku,
+  puzzle,
   mysql,
   git,
   github,
@@ -201,7 +202,7 @@ const projects = [
       }
     ],
     image: carrent,
-    source_code_link: "https://github.com/vaibh-vaibh/tasty-menu-delight-hub.git",
+    source_code_link: "https://delight-hub.netlify.app/",
   },
   {
     name: "House Price Prediction",
@@ -350,6 +351,30 @@ const projects = [
     ],
     image: tictactoe,
     source_code_link: "https://68238e2e48c07440a7083eeb--fantastic-banoffee-3645c7.netlify.app/",
+  },
+  {
+    name: "Word Spot Puzzle Game Frontend Website",
+    description:
+      "Developed a Word Spot Puzzle Game using HTML, CSS, and JavaScript with smooth controls, and score tracking for an engaging and responsive gaming website experience.",
+    tags: [
+      {
+        name: "html5",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "netlify", 
+      },
+    ],
+    image: puzzle,
+    source_code_link: "https://6825fe0284b868ffbea8a22c--remarkable-hotteok-9c85d8.netlify.app/",
   },
 ];
 

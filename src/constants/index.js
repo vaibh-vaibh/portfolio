@@ -355,7 +355,7 @@ const projects = [
   {
     name: "Word Spot Puzzle Game Frontend Website",
     description:
-      "Developed a Word Spot Puzzle Game using HTML, CSS, and JavaScript with smooth controls, and score tracking for an engaging and responsive gaming website experience.",
+      "Developed a Word Spot Puzzle Game using HTML, CSS, and JavaScript with smooth controls,new game button and score tracking for an engaging and responsive gaming website experience.",
     tags: [
       {
         name: "html5",

@@ -7,8 +7,8 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import quiz from "./quiz.jpg";
 import typescript from "./tech/typescript.png";
-import notepad from "./notepad.png";
-import portfolio from "./portfolio.png";
+import notepad from "./notepad.jpg";
+import portfolio from "./portfolio.jpg";
 
 import css from "./tech/css.png";
 import netlify from "./tech/netlify.png";
@@ -24,14 +24,14 @@ import vite from "./tech/vite.png";
 import threejs from "./tech/threejs.svg";
 
 import cetpa from "./company/cetpa.png";
-import tictactoe from "./tictactoe.png";
+import tictactoe from "./tictactoe.jpg";
 import ceeras from "./company/ceeras.jpg";
 import java from "./tech/java.png"
 import carrent from "./carrent.png";
-import vphomes from "./vphomes.png";
-import snake from "./snake.png";
-import sudoku from "./sudoku.png";
-import puzzle from "./puzzle.png";
+import vphomes from "./vphomes.jpg";
+import snake from "./snake.jpg";
+import sudoku from "./sudoku.jpg";
+import puzzle from "./puzzle.jpg";
 
 export {
   logo,

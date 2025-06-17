@@ -143,7 +143,7 @@ const experiences = [
     company_name: "Ceeras IT Services",
     icon: ceeras,
     iconBg: "#E6DEDD",
-    date: "Feb 2025 - Present",
+    date: "Feb 2025 - June 2025",
     points: [
       "Gained hands-on experience with modern frontend tools like Vite and TailwindCSS for rapid UI development.",
       "Developed an Excel to MySQL Database Conversion tool handling over 10,000 employee records, processed in under 5 minutes.",

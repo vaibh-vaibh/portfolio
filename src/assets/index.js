@@ -5,7 +5,7 @@ import mobile from "./mobile.png";
 import web from "./web.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-import quiz from "./quiz.png";
+import quiz from "./quiz.jpg";
 import typescript from "./tech/typescript.png";
 import notepad from "./notepad.png";
 import portfolio from "./portfolio.png";

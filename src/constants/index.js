@@ -244,7 +244,7 @@ const projects = [
       }
     ],
     image: portfolio,
-    source_code_link: "https://githubbox.com/vaibh-vaibh/portfolio",
+    source_code_link: "https://portfolio-vaibhav-gupta.netlify.app/",
   },
   {
     name: "Snake Game Frontend Website",
